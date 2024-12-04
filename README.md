@@ -14,7 +14,7 @@ php artisan migrate // TO CONNECT TO DATABASE
 
 // OR COPY//
 
-git clone https://github.com/YourUsername/GetLaw.git
+git clone https://github.com/Risang-Faiz/GetLaw.git
 
 cd GetLaw
 
